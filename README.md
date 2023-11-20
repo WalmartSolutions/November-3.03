@@ -1,19 +1,27 @@
-<h1 align="center">november-3.03</h1>
-In new york we milly rock.
+<h1 align="center">November 3.03</h1>
+
+**Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-Our beloved friend styx (:heart:) gave us the jar and we decided to be a little silly. <br>
-So basically rest in p1ss to whoever made this a$$ and please get better prot. <br>
-Was really easy to smoke as the original gangstas who made this cheat used sb27 and some public native transpiler :skull:
+Our beloved friend ube (:heart:) gave us the jar and we decided to be a little silly. <br>
+So basically rest in p1ss to whoever made this a$$ and please get better protection. <br>
+Was really easy to cwack as the original gangstas who made this cheat used Sb27 and some public native transpiler :skull:
 
-<img src="https://images-ext-2.discordapp.net/external/EktvMODPW7OfyBXVoRBNe2CSaGR05oixzAFzxHHXFRc/%3Fu%3Dhttps%253A%252F%252Fpbs.twimg.com%252Fmedia%252FFw_Y0bPXsAcduDH.jpg%26f%3D1%26nofb%3D1%26ipt%3D5f7369992d624c68b4593d619c6e713dc2ccf4ac93fcddca54955f8df624ab0e%26ipo%3Dimages/https/external-content.duckduckgo.com/iu/?width=441&height=418">
+# How To Use
+1. Download November.zip.
+2. Un-zip it and put the "November" file on your Desktop.
+3. Open the "November" file and press "start-client.bat".
 
 [1]: https://github.com/3000IQPlay
 [2]: https://github.com/ethaanol
 
 # Credits
-- [3000IQPlay][1] - Reverse engineering and cracking the jar.
+- [3000IQPlay][1] - Reverse engineering and Cracking the jar.
 - [exotic][2] - Writing this readme, signing the cracked jar.
+
+# GUI
+
+![image](https://media.discordapp.net/attachments/1162676465427558500/1176225995255193630/image.png?ex=656e18d2&is=655ba3d2&hm=a4bc495473ddee25b8a885ec635d307910eb6b7e17f639212b554789db6f7675&=&width=1101&height=619)
 
 # Meme board
 
