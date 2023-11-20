@@ -3,8 +3,8 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-Our beloved friend ube (:heart:) gave us the jar and we decided to be a little silly. <br>
-So basically rest in p1ss to whoever made this a$$ and please get better protection. <br>
+Our beloved friend styx (:heart:) gave us the jar and we decided to be a little silly. <br>
+So basically rest in p1ss to whoever made this a$$ and please get better prot. <br>
 Was really easy to cwack as the original gangstas who made this cheat used Sb27 and some public native transpiler :skull:
 
 # How To Use
@@ -16,9 +16,10 @@ Was really easy to cwack as the original gangstas who made this cheat used Sb27 
 [2]: https://github.com/ethaanol
 
 # Credits
-- ??? - Making the client.
-- [3000IQPlay][1] - Reverse engineering and Cracking the jar.
+- [3000IQPlay][1] - Reverse engineering and cracking the jar.
 - [exotic][2] - Writing this readme, signing the cracked jar.
+- styx (:heart:) - Deobfing sb27 for no reason at all but thx and providing the jar.
+- ? - Making this cheat.
 
 # GUI
 
