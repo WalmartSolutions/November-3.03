@@ -7,7 +7,8 @@ Our beloved friend styx (:heart:) gave us the jar and we decided to be a little 
 So basically rest in p1ss to whoever made this a$$ and please get better prot. <br>
 Was really easy to cwack as the original gangstas who made this cheat used Sb27 and some public native transpiler :skull: <br>
 
-**deobf | https://www.file.io/zjQg/download/uVAmWkIFxL5G**
+**password is 'trillium'** <br>
+**deobf | https://easyupload.io/wugv6m**
 
 # How To Use
 1. Download November.zip.
