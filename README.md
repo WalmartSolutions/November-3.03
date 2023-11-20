@@ -3,8 +3,8 @@ In new york we milly rock.
 
 # Why?
 Our beloved friend styx (:heart:) gave us the jar and we decided to be a little silly. <br>
-So basically rest in p1ss to whoever made this a$$ and please get better protection. <br>
-Was really easy to crack as the original gangstas who made this cheat used sb27 and some public native transpiler :skull:
+So basically rest in p1ss to whoever made this a$$ and please get better prot. <br>
+Was really easy to smoke as the original gangstas who made this cheat used sb27 and some public native transpiler :skull:
 
 <img src="https://images-ext-2.discordapp.net/external/EktvMODPW7OfyBXVoRBNe2CSaGR05oixzAFzxHHXFRc/%3Fu%3Dhttps%253A%252F%252Fpbs.twimg.com%252Fmedia%252FFw_Y0bPXsAcduDH.jpg%26f%3D1%26nofb%3D1%26ipt%3D5f7369992d624c68b4593d619c6e713dc2ccf4ac93fcddca54955f8df624ab0e%26ipo%3Dimages/https/external-content.duckduckgo.com/iu/?width=441&height=418">
 
