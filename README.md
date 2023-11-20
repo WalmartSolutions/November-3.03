@@ -16,10 +16,10 @@ Was really easy to cwack as the original gangstas who made this cheat used Sb27 
 [2]: https://github.com/ethaanol
 
 # Credits
+- ??? - Making this client.
 - [3000IQPlay][1] - Reverse engineering and cracking the jar.
 - [exotic][2] - Writing this readme, signing the cracked jar.
-- styx (:heart:) - Deobfing sb27 for no reason at all but thx and providing the jar.
-- ? - Making this cheat.
+- styx - Deobfing sb27 for no reason at all, Providing the jar.
 
 # GUI
 
