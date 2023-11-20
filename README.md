@@ -1,12 +1,13 @@
 <h1 align="center">November 3.03</h1>
 
-**Trillium INC: https://discord.gg/vzXzFpv2gk**
+**Trillium INC | https://discord.gg/vzXzFpv2gk**
 
 # Why?
 Our beloved friend styx (:heart:) gave us the jar and we decided to be a little silly. <br>
 So basically rest in p1ss to whoever made this a$$ and please get better prot. <br>
 Was really easy to cwack as the original gangstas who made this cheat used Sb27 and some public native transpiler :skull: <br>
-Deobf - https://www.file.io/zjQg/download/uVAmWkIFxL5G
+
+**deobf | https://www.file.io/zjQg/download/uVAmWkIFxL5G**
 
 # How To Use
 1. Download November.zip.
